@@ -7,9 +7,9 @@ markdown: rdiscount
 
 # configuration required for some pages
 
-domain: blog.example.com
+domain: http://aligh.github.io/blog
 title: My Blog Title
-author: Me
+author: AliGH
 email: me@example.com
 
 # configuration for ehancements, uncomment to enable
